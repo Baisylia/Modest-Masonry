@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "X X",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:plank"
+    },
+    "X": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:carved_dark_oak_planks",
+    "count": 5
+  }
+}

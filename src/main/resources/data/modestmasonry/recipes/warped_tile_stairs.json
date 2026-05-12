@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:warped_tiles"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:warped_tile_stairs",
+    "count": 6
+  }
+}

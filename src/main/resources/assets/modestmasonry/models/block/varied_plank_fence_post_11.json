@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "modestmasonry:block/varied_planks_11"
+  }
+}

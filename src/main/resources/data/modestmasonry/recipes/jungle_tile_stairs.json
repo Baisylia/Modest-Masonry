@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:jungle_tiles"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:jungle_tile_stairs",
+    "count": 6
+  }
+}

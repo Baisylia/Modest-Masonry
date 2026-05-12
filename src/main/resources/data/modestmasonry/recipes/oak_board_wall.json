@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:oak_boards"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:oak_board_wall",
+    "count": 6
+  }
+}

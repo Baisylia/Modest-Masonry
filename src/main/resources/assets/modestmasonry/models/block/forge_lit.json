@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/orientable_with_bottom",
+	"textures": {
+		"side": "modestmasonry:block/forge_side",
+		"top": "modestmasonry:block/forge_top_lit",
+		"bottom": "modestmasonry:block/forge_bottom",
+		"front": "modestmasonry:block/forge_front_lit"
+	}
+}

@@ -1,0 +1,13 @@
+ {
+  "variants": {
+    "type=bottom": {
+      "model": "modestmasonry:block/acacia_tile_slab"
+    },
+    "type=double": {
+      "model": "modestmasonry:block/acacia_tile_slab_full"
+    },
+    "type=top": {
+      "model": "modestmasonry:block/acacia_tile_slab_top"
+    }
+  }
+}

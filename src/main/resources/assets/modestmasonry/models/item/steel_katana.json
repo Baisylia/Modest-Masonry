@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "textures": {
+    "layer0": "modestmasonry:item/steel_katana_gui"
+  },
+  "base": {
+    "parent": "modestmasonry:item/steel_katana_handheld"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "modestmasonry:item/steel_katana_gui"
+    },
+    "fixed": {
+      "parent": "modestmasonry:item/steel_katana_gui"
+    }
+  }
+}

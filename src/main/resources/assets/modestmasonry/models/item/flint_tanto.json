@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "textures": {
+    "layer0": "modestmasonry:item/flint_tanto_gui"
+  },
+  "base": {
+    "parent": "modestmasonry:item/flint_tanto_handheld"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "modestmasonry:item/flint_tanto_gui"
+    },
+    "fixed": {
+      "parent": "modestmasonry:item/flint_tanto_gui"
+    }
+  }
+}

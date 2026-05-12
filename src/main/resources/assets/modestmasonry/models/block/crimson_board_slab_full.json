@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modestmasonry:block/crimson_boards",
+    "side": "modestmasonry:block/crimson_boards",
+    "top": "modestmasonry:block/crimson_boards"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "modestmasonry:block/varied_planks_4",
+    "top": "modestmasonry:block/varied_planks_4",
+    "side": "modestmasonry:block/varied_planks_4"
+  }
+}

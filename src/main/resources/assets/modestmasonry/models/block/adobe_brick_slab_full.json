@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modestmasonry:block/adobe_bricks",
+    "side": "modestmasonry:block/adobe_bricks",
+    "top": "modestmasonry:block/adobe_bricks"
+  }
+}

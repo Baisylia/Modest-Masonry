@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "modestmasonry:block/dark_oak_tiles"
+  }
+}

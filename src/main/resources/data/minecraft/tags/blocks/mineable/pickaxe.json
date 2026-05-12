@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "modestmasonry:cement",
+    "modestmasonry:adobe_bricks",
+    "modestmasonry:adobe_brick_slab",
+    "modestmasonry:adobe_brick_stairs",
+    "modestmasonry:adobe_brick_wall",
+    "modestmasonry:cracked_adobe_bricks",
+    "modestmasonry:mossy_adobe_bricks",
+    "modestmasonry:mossy_adobe_brick_slab",
+    "modestmasonry:mossy_adobe_brick_stairs",
+    "modestmasonry:mossy_adobe_brick_wall"
+  ]
+}

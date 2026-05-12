@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:oak_tiles"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:oak_tile_stairs",
+    "count": 6
+  }
+}

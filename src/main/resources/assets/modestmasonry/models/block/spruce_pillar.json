@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "modestmasonry:block/spruce_pillar_top",
+    "side": "modestmasonry:block/spruce_pillar_side"
+  }
+}

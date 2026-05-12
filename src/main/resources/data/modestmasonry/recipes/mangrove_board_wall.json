@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:mangrove_boards"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:mangrove_board_wall",
+    "count": 6
+  }
+}

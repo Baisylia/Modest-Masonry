@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modestmasonry:block/jungle_tiles",
+    "side": "modestmasonry:block/jungle_tiles",
+    "top": "modestmasonry:block/jungle_tiles"
+  }
+}

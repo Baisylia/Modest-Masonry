@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "modestmasonry:block/varied_planks_2",
+    "top": "modestmasonry:block/varied_planks_2",
+    "side": "modestmasonry:block/varied_planks_2"
+  }
+}

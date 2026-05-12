@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "modestmasonry:block/acacia_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "modestmasonry:block/acacia_pillar"
+    },
+    "axis=z": {
+      "model": "modestmasonry:block/acacia_pillar_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,13 @@
+ {
+  "variants": {
+    "type=bottom": {
+      "model": "modestmasonry:block/jungle_carved_plank_slab"
+    },
+    "type=double": {
+      "model": "modestmasonry:block/jungle_carved_plank_slab_full"
+    },
+    "type=top": {
+      "model": "modestmasonry:block/jungle_carved_plank_slab_top"
+    }
+  }
+}

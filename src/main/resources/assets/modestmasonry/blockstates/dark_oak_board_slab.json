@@ -1,0 +1,13 @@
+ {
+  "variants": {
+    "type=bottom": {
+      "model": "modestmasonry:block/dark_oak_board_slab"
+    },
+    "type=double": {
+      "model": "modestmasonry:block/dark_oak_board_slab_full"
+    },
+    "type=top": {
+      "model": "modestmasonry:block/dark_oak_board_slab_top"
+    }
+  }
+}

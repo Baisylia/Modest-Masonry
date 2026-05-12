@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "modestmasonry:block/mangrove_boards",
+    "side": "modestmasonry:block/mangrove_boards",
+    "top": "modestmasonry:block/mangrove_boards"
+  }
+}

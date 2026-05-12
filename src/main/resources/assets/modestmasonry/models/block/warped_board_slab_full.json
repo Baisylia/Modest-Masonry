@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modestmasonry:block/warped_boards",
+    "side": "modestmasonry:block/warped_boards",
+    "top": "modestmasonry:block/warped_boards"
+  }
+}

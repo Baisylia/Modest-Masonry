@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "modestmasonry:block/birch_tiles",
+    "side": "modestmasonry:block/birch_tiles",
+    "top": "modestmasonry:block/birch_tiles"
+  }
+}

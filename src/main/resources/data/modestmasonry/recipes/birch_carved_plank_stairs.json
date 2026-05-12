@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:carved_birch_planks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:birch_carved_plank_stairs",
+    "count": 6
+  }
+}
