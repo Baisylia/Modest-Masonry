@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "modestmasonry:pink_bricks"
+  },
+  "result": "modestmasonry:pink_brick_slab"
+}

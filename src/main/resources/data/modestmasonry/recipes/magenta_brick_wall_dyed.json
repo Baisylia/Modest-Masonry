@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+	"XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_dye"
+    },
+    "X": {
+      "item": "minecraft:brick_wall"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:magenta_brick_wall",
+    "count": 8
+  }
+}

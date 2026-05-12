@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "modestmasonry:yellow_bricks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:yellow_brick_wall",
+    "count": 6
+  }
+}

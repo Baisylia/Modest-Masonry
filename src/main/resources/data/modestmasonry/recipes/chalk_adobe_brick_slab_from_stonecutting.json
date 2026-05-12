@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "modestmasonry:chalk_adobe_bricks"
+  },
+  "result": "modestmasonry:chalk_adobe_brick_slab"
+}

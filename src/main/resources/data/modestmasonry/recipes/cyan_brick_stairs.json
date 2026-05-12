@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "modestmasonry:cyan_bricks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:cyan_brick_stairs",
+    "count": 6
+  }
+}

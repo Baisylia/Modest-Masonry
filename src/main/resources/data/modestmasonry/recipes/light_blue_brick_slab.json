@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "modestmasonry:light_blue_bricks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:light_blue_brick_slab",
+    "count": 6
+  }
+}

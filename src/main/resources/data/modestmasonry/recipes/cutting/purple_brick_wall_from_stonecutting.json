@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "modestmasonry:purple_bricks"
+  },
+  "result": "modestmasonry:purple_brick_wall"
+}

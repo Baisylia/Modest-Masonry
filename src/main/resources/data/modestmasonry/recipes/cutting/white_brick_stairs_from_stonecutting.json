@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "modestmasonry:white_bricks"
+  },
+  "result": "modestmasonry:white_brick_stairs"
+}

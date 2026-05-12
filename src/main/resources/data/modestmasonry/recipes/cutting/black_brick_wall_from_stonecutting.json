@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "modestmasonry:black_bricks"
+  },
+  "result": "modestmasonry:black_brick_wall"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "modestmasonry:charcoal_bricks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:charcoal_adobe_bricks",
+    "count": 4
+  }
+}

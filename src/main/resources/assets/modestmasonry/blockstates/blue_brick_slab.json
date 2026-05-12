@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "modestmasonry:block/blue_brick_slab"
+    },
+    "type=double": {
+      "model": "modestmasonry:block/blue_brick_slab_full"
+    },
+    "type=top": {
+      "model": "modestmasonry:block/blue_brick_slab_top"
+    }
+  }
+}

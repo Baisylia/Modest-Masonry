@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+	"XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gray_dye"
+    },
+    "X": {
+      "item": "minecraft:brick_slab"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:gray_brick_slab",
+    "count": 8
+  }
+}

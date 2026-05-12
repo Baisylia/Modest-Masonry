@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "modestmasonry:block/magenta_bricks",
+    "side": "modestmasonry:block/magenta_bricks",
+    "top": "modestmasonry:block/magenta_bricks"
+  }
+}

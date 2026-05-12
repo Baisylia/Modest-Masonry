@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "modestmasonry:block/charcoal_bricks",
+    "side": "modestmasonry:block/charcoal_bricks",
+    "top": "modestmasonry:block/charcoal_bricks"
+  }
+}
