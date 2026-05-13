@@ -3,18 +3,18 @@
   "pattern": [
     "XXX",
     "X#X",
-	"XXX
+	"XXX"
   ],
   "key": {
     "#": {
-      "item": "minecraft:gay_dye"
+      "item": "minecraft:lime_dye"
     },
     "X": {
       "item": "minecraft:bricks"
     }
   },
   "result": {
-    "item": "modestmasonry:gay_bricks",
+    "item": "modestmasonry:lime_bricks",
     "count": 8
   }
 }
