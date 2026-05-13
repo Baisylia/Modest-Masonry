@@ -28,8 +28,47 @@ public class ModBlocks {
     public static final RegistryObject<Block> CEMENT = registerBlock("cement",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
+    public static final RegistryObject<Block> CEMENT_SLAB = registerBlock("cement_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_STAIRS = registerBlock("cement_stairs",
+            () -> new StairBlock(() -> Blocks.GRAY_CONCRETE.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_WALL = registerBlock("cement_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_CEMENT = registerBlock("polished_cement",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_CEMENT_SLAB = registerBlock("polished_cement_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_CEMENT_STAIRS = registerBlock("polished_cement_stairs",
+            () -> new StairBlock(() -> Blocks.GRAY_CONCRETE.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> POLISHED_CEMENT_WALL = registerBlock("polished_cement_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_BRICKS = registerBlock("cement_bricks",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_BRICK_SLAB = registerBlock("cement_brick_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_BRICK_STAIRS = registerBlock("cement_brick_stairs",
+            () -> new StairBlock(() -> Blocks.GRAY_CONCRETE.defaultBlockState(),
+                    BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_BRICK_WALL = registerBlock("cement_brick_wall",
+            () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
     public static final RegistryObject<Block> CEMENT_POWDER = registerBlock("cement_powder",
             () -> new ConcretePowderBlock(CEMENT.get(), BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE_POWDER)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
+
+    public static final RegistryObject<Block> CEMENT_PILLAR = registerBlock("cement_pillar",
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.GRAY_CONCRETE)), CreativeModeTab.TAB_BUILDING_BLOCKS, false, 0);
 
 
     public static final RegistryObject<Block> ADOBE_BRICKS = registerBlock("adobe_bricks",

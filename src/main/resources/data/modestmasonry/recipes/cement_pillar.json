@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "X"
+  ],
+  "key": {
+    "X": {
+      "item": "modestmasonry:cement_bricks"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:cement_pillar",
+    "count": 3
+  }
+}

@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
+    "modestmasonry:cement_wall",
+    "modestmasonry:polished_cement_wall",
+    "modestmasonry:cement_brick_wall",
     "modestmasonry:adobe_brick_wall",
     "modestmasonry:mossy_adobe_brick_wall",
     "modestmasonry:chalk_brick_wall",

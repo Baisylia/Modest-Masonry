@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "modestmasonry:cement"
+  },
+  "result": "modestmasonry:cement_wall"
+}

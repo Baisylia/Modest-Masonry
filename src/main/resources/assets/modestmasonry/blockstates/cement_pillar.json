@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "modestmasonry:block/cement_pillar_two",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "modestmasonry:block/cement_pillar"
+    },
+    "axis=z": {
+      "model": "modestmasonry:block/cement_pillar_three",
+      "x": 90
+    }
+  }
+}

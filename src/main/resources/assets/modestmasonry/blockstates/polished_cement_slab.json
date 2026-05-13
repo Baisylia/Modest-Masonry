@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "modestmasonry:block/polished_cement_slab"
+    },
+    "type=double": {
+      "model": "modestmasonry:block/polished_cement_slab_full"
+    },
+    "type=top": {
+      "model": "modestmasonry:block/polished_cement_slab_top"
+    }
+  }
+}

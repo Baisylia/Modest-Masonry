@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "modestmasonry:polished_cement"
+  },
+  "result": "modestmasonry:polished_cement_slab"
+}

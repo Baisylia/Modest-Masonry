@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "modestmasonry:polished_cement"
+    }
+  },
+  "result": {
+    "item": "modestmasonry:polished_cement_wall",
+    "count": 6
+  }
+}

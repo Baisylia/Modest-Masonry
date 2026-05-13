@@ -3,7 +3,19 @@
 
 
   "block.modestmasonry.cement": "Cement",
+  "block.modestmasonry.cement_stairs": "Cement Stairs",
+  "block.modestmasonry.cement_slab": "Cement Slab",
+  "block.modestmasonry.cement_wall": "Cement Wall",
+  "block.modestmasonry.polished_cement": "Polished Cement",
+  "block.modestmasonry.polished_cement_stairs": "Polished Cement Stairs",
+  "block.modestmasonry.polished_cement_slab": "Polished Cement Slab",
+  "block.modestmasonry.polished_cement_wall": "Polished Cement Wall",
+  "block.modestmasonry.cement_bricks": "Cement Bricks",
+  "block.modestmasonry.cement_brick_stairs": "Cement Brick Stairs",
+  "block.modestmasonry.cement_brick_slab": "Cement Brick Slab",
+  "block.modestmasonry.cement_brick_wall": "Cement Brick Wall",
   "block.modestmasonry.cement_powder": "Cement Powder",
+  "block.modestmasonry.cement_pillar": "Cement Pillar",
 
   "block.modestmasonry.adobe_bricks": "Adobe Bricks",
   "block.modestmasonry.adobe_brick_slab": "Adobe Brick Slab",
